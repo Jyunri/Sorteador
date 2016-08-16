@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clientes">
+        <item >Sushi Tina</item>
+        <item >Pizzaria do Cheff</item>
+        <item >Mami Lari Store</item>
+        <item >Nova Estrela</item>
+        <item >The Potato Delivery</item>
+        <item >Salto Forte Lava Rapido</item>
+        <item >Hot Will</item>
+    </string-array>
+</resources>
