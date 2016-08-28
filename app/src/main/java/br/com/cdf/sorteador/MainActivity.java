@@ -12,6 +12,7 @@ import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+import java.util.Stack;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
     RelativeLayout mainActivity;
@@ -34,6 +35,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 //        btConcorrentes.setOnClickListener(this);
         ibSortear.setOnClickListener(this);
 
+
         //configuracao por cliente
         switch (SorteioAtual.sorteioatual) {
             case "Pizzaria do Cheff":
@@ -46,6 +48,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 ibSortear.setBackgroundResource(R.drawable.botaosushi);
                 csvSource = R.raw.resultadosushi;
                 break;
+            case "The Potato Delivery":
+                mainActivity.setBackgroundResource(R.drawable.tela1potato);
+                ibSortear.setBackgroundResource(R.drawable.botaopotato);
+                csvSource = R.raw.resultadopotato;
+                break;
         }
 
         //banco de dados
@@ -56,6 +63,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         csvParser.read(concorrenteList);
 
         System.out.println("Current: " + SorteioAtual.sorteioatual);
+
 
     }
 
@@ -82,3 +90,5 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         }
     }
 }
+
+
