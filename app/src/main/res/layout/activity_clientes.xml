@@ -5,7 +5,8 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="@dimen/activity_vertical_margin"
-    tools:context="br.com.cdf.sorteador.Clientes">
+    tools:context="br.com.cdf.sorteador.Clientes"
+    android:background="#001121">
 
     <TextView
         android:layout_width="wrap_content"
@@ -13,6 +14,7 @@
         android:text="SELECIONE O SORTEIO A SER REALIZADO"
         android:id="@+id/tvSelecionar"
         android:layout_marginTop="30dp"
+        android:textColor="#FFFF"
         android:layout_centerHorizontal="true"
         />
 
