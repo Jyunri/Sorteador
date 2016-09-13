@@ -31,8 +31,8 @@ public class CSVParser {
                     String[] row = csvLine.split(",");
                     c.codigo = row[1];
                     c.nome = row[2];
-                    c.email = row[3];
-                    c.telefone = row[4];
+                    //c.email = row[3];
+                    //c.telefone = row[4];
                     concorrenteList.add(c);
                 }
                 count++;
