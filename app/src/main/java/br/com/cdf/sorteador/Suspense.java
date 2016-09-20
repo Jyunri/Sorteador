@@ -32,6 +32,9 @@ public class Suspense extends AppCompatActivity {
             case "The Potato Delivery":
                 suspenseActivity.setBackgroundResource(R.drawable.tela2potato);
                 break;
+            case "Spazio":
+                suspenseActivity.setBackgroundResource(R.drawable.tela2spazio);
+                break;
         }
 
         new Handler().postDelayed(new Runnable() {

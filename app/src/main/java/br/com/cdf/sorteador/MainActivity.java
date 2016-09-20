@@ -53,6 +53,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 ibSortear.setBackgroundResource(R.drawable.botaopotato);
                 csvSource = R.raw.resultadopotato;
                 break;
+            case "Spazio":
+                mainActivity.setBackgroundResource(R.drawable.tela1spazio);
+                ibSortear.setBackgroundResource(R.drawable.botaospazio);
+                csvSource = R.raw.resultadospazio;
+                break;
         }
 
         //banco de dados
@@ -83,10 +88,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.ibSortear:
                 Collections.shuffle(concorrenteList);
                 Intent i2 = new Intent(this,Suspense.class);
-                i2.putExtra("codGanhador", concorrenteList.get(0).nome+", código: "+concorrenteList.get(0).codigo);
+                i2.putExtra("codGanhador", concorrenteList.get(0).nome + ", código: " + concorrenteList.get(0).codigo);
                 startActivity(i2);
 
                 break;
+
         }
     }
 }
