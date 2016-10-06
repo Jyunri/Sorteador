@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case "Pizzaria do Cheff":
                 mainActivity.setBackgroundResource(R.drawable.tela1cheff);
                 ibSortear.setBackgroundResource(R.drawable.botaocheff);
-                csvSource = R.raw.resultadocheff;
+                csvSource = R.raw.resultadocheff2;
                 break;
             case "Sushi Tina":
                 mainActivity.setBackgroundResource(R.drawable.tela1sushi);
