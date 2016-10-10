@@ -39,6 +39,9 @@ public class Ganhador extends AppCompatActivity {
             case "Spazio":
                 ganhadorActivity.setBackgroundResource(R.drawable.tela3spazio);
                 break;
+            case "Ceara":
+                ganhadorActivity.setBackgroundResource(R.drawable.tela3ceara);
+                break;
         }
 
         tvVencedor = (TextView)findViewById(R.id.tvVencedor);

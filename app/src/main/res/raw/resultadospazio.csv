@@ -1,42 +1,58 @@
-"Indicação de data e hora","Código De Verificação ","Nome Completo","Telefone","Email"
-"2016/09/19 3:04:20 PM GMT-3","01","Poliana Castro ","",""
-"2016/09/19 3:04:51 PM GMT-3","02","Roberto Pereira Godoy","",""
-"2016/09/19 3:05:21 PM GMT-3","03","Cris Bill Felipe Migoto","",""
-"2016/09/19 3:05:50 PM GMT-3","04","Ivna Carvalho ","",""
-"2016/09/19 3:06:27 PM GMT-3","05","Juliana Verissimo Goncalves ","",""
-"2016/09/19 3:07:21 PM GMT-3","06","Mariah Luiza Borges ","",""
-"2016/09/19 3:07:53 PM GMT-3","07","Rosana Rodrigues","",""
-"2016/09/19 3:08:24 PM GMT-3","08","Gabriela Santos ","",""
-"2016/09/19 3:09:01 PM GMT-3","09","Lilian Palau ","",""
-"2016/09/19 3:09:47 PM GMT-3","10","Gisele Sant'Ana","",""
-"2016/09/19 3:11:01 PM GMT-3","11","Ricardo Sheila","",""
-"2016/09/19 3:11:35 PM GMT-3","12","Fatima Cardoso ","",""
-"2016/09/19 3:12:08 PM GMT-3","13","Elaine Marcos ","",""
-"2016/09/19 3:13:24 PM GMT-3","14","Flavia Branco","",""
-"2016/09/19 3:13:44 PM GMT-3","15","Nilce Mota ","",""
-"2016/09/19 3:14:15 PM GMT-3","16","Maria Zelia Raimundo ","",""
-"2016/09/19 3:14:34 PM GMT-3","17","Rose Luna ","",""
-"2016/09/19 3:15:21 PM GMT-3","18","Danilo Souza ","",""
-"2016/09/19 3:16:08 PM GMT-3","19","Debora Cavalcante Faria ","",""
-"2016/09/19 3:16:50 PM GMT-3","20","Natasha Paula ","",""
-"2016/09/19 3:17:15 PM GMT-3","21","Elismara Silva ","",""
-"2016/09/19 3:18:13 PM GMT-3","22","Thomaz Skazin Montagnini ","",""
-"2016/09/19 3:19:39 PM GMT-3","23","Emerson Santos ","",""
-"2016/09/19 3:20:19 PM GMT-3","24","Tamires Alves ","",""
-"2016/09/19 3:21:05 PM GMT-3","25","Tamires Alves ","",""
-"2016/09/19 3:21:37 PM GMT-3","26","Valeria Oliveira ","",""
-"2016/09/19 3:23:09 PM GMT-3","27","Laiza Ribeiro","",""
-"2016/09/19 3:23:40 PM GMT-3","28","Solange Carvalho","",""
-"2016/09/19 3:24:18 PM GMT-3","29","Charlotte Brunna","",""
-"2016/09/19 3:24:50 PM GMT-3","30","Marcia Borges","",""
-"2016/09/19 3:25:18 PM GMT-3","31","Simone silva","",""
-"2016/09/19 3:26:05 PM GMT-3","32","Vanessagilson Miguel Sotero Duarte Azevedo","",""
-"2016/09/19 3:26:56 PM GMT-3","33","Daiane Caroline Gonzalez","",""
-"2016/09/19 3:27:46 PM GMT-3","34","Viviane Araújo Silva","",""
-"2016/09/19 3:28:18 PM GMT-3","35","Verônica Santos","",""
-"2016/09/19 3:28:51 PM GMT-3","36","Marcio Naoki Sakaki","",""
-"2016/09/19 3:29:35 PM GMT-3","37","Cecilia Borges","",""
-"2016/09/19 3:30:01 PM GMT-3","38","Andressa Sousa ","",""
-"2016/09/19 3:30:33 PM GMT-3","39","Cris Cristina","",""
-"2016/09/19 3:30:56 PM GMT-3","40","Daine Lopes ","",""
-"2016/09/19 3:31:23 PM GMT-3","41","Rosana Magalhães","",""
+1,Laisse Freitas 
+2,Eliana Silva
+3,Maria Gaspar Rodrigues
+4,Lucas Louzada
+5,Marcia Cristina Rodrigues Gomes de Lima  
+6,Dany EL
+7,Charlott Brunna 
+8,Jamile Oliveira 
+9,Geruza Isabel Robrigues Ribeiro 
+10,Laryssa Prudencio 
+11,Celso Pereira
+12,Jesi da Silva 
+13,Marisa Pereira 
+14,Thais Paixão Henrique Barrera
+15,Ana Paula Gomes 
+16,Natália Araújo
+17,Nicollas Brum
+18,Virgínia Teles  
+19,Tais Aparecida 
+20,Luis Gustavo Gu
+21,Maitthe Schoneborn
+22,Diego Andrade Santos 
+23,Simone Silva
+24,Carolina Pires
+25,Leticia Silva 
+26,Laiza Fernandes Oliveira Beghini
+27,Ana Ribeiro 
+28,Marcella Faggionato 
+29,Leco Duble
+30,Priscila Samanta 
+31,Joseilma Aureliano 
+32,Francislaine Nascimento
+33,Eliane Jesus Bicudo Pereira 
+34,Patricia Gacic
+35,Esna Nogueira Teodoro 
+36,Luciana Armani
+37,Wellington Silva 
+38,Adrielle Karla 
+39,Leandro Henrique Cunha 
+40,Nanne Silva 
+41,Fabinne Nogueira 
+42,Franciene Lima Leite
+43,Sonia das Graças Soares
+44,Simone silva
+45,Laiza Ribeiro 
+46,Hercilia Wanderley Cardoso 
+47,Elida Couto
+48,Roseli Silva 
+49,Alexandre Ferraz
+50,Lais Damiski Fernandes
+51,Débora Cavalcante 
+52,Abimael Souza
+53,Cris Cristina 
+54,Rose Luna 
+55,Suelen Cristina 
+56,Emerson Juiana Lobo
+57,Giseli Gi
+58,Marla Mortate

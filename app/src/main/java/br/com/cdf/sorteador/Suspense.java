@@ -35,6 +35,9 @@ public class Suspense extends AppCompatActivity {
             case "Spazio":
                 suspenseActivity.setBackgroundResource(R.drawable.tela2spazio);
                 break;
+            case "Ceara":
+                suspenseActivity.setBackgroundResource(R.drawable.tela2ceara);
+                break;
         }
 
         new Handler().postDelayed(new Runnable() {
