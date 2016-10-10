@@ -62,6 +62,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 mainActivity.setBackgroundResource(R.drawable.tela1ceara);
                 ibSortear.setBackgroundResource(R.drawable.botaoceara);
                 csvSource = R.raw.resultadoceara;
+            case "Kam Mann":
+                mainActivity.setBackgroundResource(R.drawable.tela1km);
+                ibSortear.setBackgroundResource(R.drawable.botaokm);
+                csvSource = R.raw.resultadokammann;
                 break;
         }
 

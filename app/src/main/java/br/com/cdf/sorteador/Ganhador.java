@@ -41,6 +41,8 @@ public class Ganhador extends AppCompatActivity {
                 break;
             case "Ceara":
                 ganhadorActivity.setBackgroundResource(R.drawable.tela3ceara);
+            case "Kam Mann":
+                ganhadorActivity.setBackgroundResource(R.drawable.tela3km);
                 break;
         }
 

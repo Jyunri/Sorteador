@@ -37,6 +37,8 @@ public class Suspense extends AppCompatActivity {
                 break;
             case "Ceara":
                 suspenseActivity.setBackgroundResource(R.drawable.tela2ceara);
+            case "Kam Mann":
+                suspenseActivity.setBackgroundResource(R.drawable.tela2km);
                 break;
         }
 
